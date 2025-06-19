@@ -1,6 +1,6 @@
 Hi, 👋 I'm Alejandro Daley.
 
-I'm a student pursuing a BSc Computing at The University of Technology, Jamaica.
+I'm a student pursuing a BSc in Computing at The University of Technology, Jamaica.
 
 - 🌱 I'm currently learning HTML & CSS, with JavaScript and React next on my roadmap as I study front-end development this summer (2025).
 - 🔭 I'm looking to collaborate on beginner-friendly projects, front-end applications, and practice projects.
